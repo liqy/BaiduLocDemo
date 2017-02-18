@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/res/merged/debug/layout/autonotifyconfig.xml",
+        "source": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/src/main/res/layout/autonotifyconfig.xml"
+    },
+    {
+        "merged": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/res/merged/debug/layout/location.xml",
+        "source": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/src/main/res/layout/location.xml"
+    },
+    {
+        "merged": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/res/merged/debug/layout/quest_activity.xml",
+        "source": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/src/main/res/layout/quest_activity.xml"
+    },
+    {
+        "merged": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/res/merged/debug/layout/locationconfig.xml",
+        "source": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/src/main/res/layout/locationconfig.xml"
+    },
+    {
+        "merged": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/res/merged/debug/layout/function_list.xml",
+        "source": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/src/main/res/layout/function_list.xml"
+    },
+    {
+        "merged": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/res/merged/debug/layout/locationfilter.xml",
+        "source": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/src/main/res/layout/locationfilter.xml"
+    },
+    {
+        "merged": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/res/merged/debug/layout/hotwifi.xml",
+        "source": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/src/main/res/layout/hotwifi.xml"
+    },
+    {
+        "merged": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/res/merged/debug/layout/locationalarm.xml",
+        "source": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/src/main/res/layout/locationalarm.xml"
+    },
+    {
+        "merged": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/res/merged/debug/layout/activity_location.xml",
+        "source": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/src/main/res/layout/activity_location.xml"
+    },
+    {
+        "merged": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/res/merged/debug/layout/notify.xml",
+        "source": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/src/main/res/layout/notify.xml"
+    }
+]

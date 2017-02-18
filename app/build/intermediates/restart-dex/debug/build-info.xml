@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="16654259562606"
+    token="4136382989998685461"
+    verifier="MANIFEST_FILE_CHANGE" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="16654259562606"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

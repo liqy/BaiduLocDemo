@@ -1,0 +1,7 @@
+#Sat Feb 18 14:11:38 CST 2017
+base.0=/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ae06fa43db8025029de8ac7ec27016458d919713
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_851dc2030c30bbc84121bcbd5c811a52ce6c32f5/classes.dex
+base.1=/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_851dc2030c30bbc84121bcbd5c811a52ce6c32f5
+file.0=/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ae06fa43db8025029de8ac7ec27016458d919713/classes.dex

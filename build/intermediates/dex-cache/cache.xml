@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cfe33065eeae1b3c606c4f0f68bb6b516cd7e110">
+        <dex dex="/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ae06fa43db8025029de8ac7ec27016458d919713/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a6540c8d4347521fa961f36b41867b182c5b6341">
+        <dex dex="/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_851dc2030c30bbc84121bcbd5c811a52ce6c32f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/libs/BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="128ce4ceb647425acea04b65ee259fe015a4f78a">
+        <dex dex="/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/BaiduLBS_Android_de53889401235747e0eac310ce25f370f2c79a5f/classes.dex" />
+    </item>
+
+</items>

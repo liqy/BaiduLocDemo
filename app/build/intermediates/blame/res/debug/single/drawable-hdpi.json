@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_openmap_focuse_mark.png",
+        "source": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/src/main/res/drawable-hdpi/icon_openmap_focuse_mark.png"
+    },
+    {
+        "merged": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_openmap_mark.png",
+        "source": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/src/main/res/drawable-hdpi/icon_openmap_mark.png"
+    },
+    {
+        "merged": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/huaji.png",
+        "source": "/Users/liqingyi/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduLoc_AndroidSDK_v7.1_Demo/android_studio/BaiduLocDemo/app/src/main/res/drawable-hdpi/huaji.png"
+    }
+]
